@@ -1,0 +1,25 @@
+.color-example {
+    color: #ffc0cb;
+    background-color: #00FF33;
+    border: 2px solid beige;
+}
+.header-example {
+    font-size: 28px;
+    font-family: 'Times New Roman', Times, serif;
+    color:black;
+}
+.list-example {
+    list-style-type: square;
+    color:black;
+    font-family: 'Times New Roman', Times, serif;
+}
+.text-example {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+.div-example {
+    background-color: darkblue;
+    border: 2px solid green;
+}
